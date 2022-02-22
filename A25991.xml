@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the state of the French fleet their number of men of war &amp; fireships, and the fortifications that [they] are making on their coast for fear of an invasion from England / in a letter from a French merchant at St. Martins, to his friend at London, July 9, New Stile, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25991</idno>
+            <idno type="STC">Wing A393</idno>
+            <idno type="STC">ESTC R9465</idno>
+            <idno type="EEBO-CITATION">11665604</idno>
+            <idno type="OCLC">ocm 11665604</idno>
+            <idno type="VID">48020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the state of the French fleet their number of men of war &amp; fireships, and the fortifications that [they] are making on their coast for fear of an invasion from England / in a letter from a French merchant at St. Martins, to his friend at London, July 9, New Stile, 1689.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France. --  Marine --  Defenses.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:48020:1"/>
+            <head>AN ACCOUNT Of the State of The French Fleet, Their Number of Men of War &amp; Fireſhips, And the Fortifications that are making on their Coaſt, For fear of an <hi>Invaſion from England.</hi> In a LETTER from a French Merchant at St. <hi>Martins,</hi> to his Friend at <hi>London, July</hi> 9. New Stile. 1689.</head>
+            <argument>
+               <p>
+                  <hi>Licenſed,</hi> 
+                  <date>July 12. 1689.</date>
+               </p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>OUR Fortifications are almoſt finiſhed, all the Platforms in the Cittadel, as well as thoſe of the City, are all in a good Poſture, with a good Garriſon.</p>
+            <p>Yeſterday arrived in this Road a Bark from <hi>Brest,</hi> where ſhe hath left our Fleet in that Bay or Road, con<g ref="char:EOLhyphen"/>ſiſting of Forty Two great Ships, beſides ſmall Frigats, and Twenty Five Fire-ſhips; and we are fitting ſtill elſe-where; but how they will be provided with a ſufficient number of Sea-men to man them, I cannot tell.</p>
+            <p>Monſieur <hi>De Tourville,</hi> the Thirteenth paſt, Sailed from <hi>Thoulon</hi> with Twenty Two Sail of Capital Ships, and Eight Fire-ſhips, and is every day expected at <hi>Brest.</hi>
+            </p>
+            <p>The Mareſchal <hi>D'Eſtrees</hi> is at <hi>Breſt,</hi> and is to go on Board the Fleet, intending to Sail the Fifteenth, to ſeek out the <hi>Engliſh</hi> and <hi>Dutch</hi> Fleets, in order to Fight them: So that we are in expectation to hear of a bloody Engagement. But others ſay, that Monſieur <hi>De Seignaly</hi> goes on Board himſelf to Command, and not Mareſchal <hi>D' Eſtrees.</hi>
+            </p>
+            <p>We have no Ships left at <hi>Rochefort</hi> (all are fitted out that were there) except one Fire-ſhip, which waits for a Wind, and ſome Fly-boats, who have Four or Five Hundred Men on Board them, for the uſe of the Fleet.</p>
+            <pb n="2" facs="tcp:48020:2"/>
+            <p>I was at <hi>Rochel</hi> Four or Five Days ago, and viewed all the Fortifi<g ref="char:EOLhyphen"/>cations of that Place, which are very forward, and in a poſture of De<g ref="char:EOLhyphen"/>fence. They have deſtroyed many Families there, as well as here, by pulling their Houſes down to the Ground; that are near the Walls.</p>
+            <p>We build a Fort at <hi>Bloody-Point,</hi> which is alſo in a great forward<g ref="char:EOLhyphen"/>neſs; and we talk of building a great one at the <hi>Martreay,</hi> and other Fortifications about the Gates. But I ſee no likelihood of fear this Summer.</p>
+            <p>They have cauſed to march within this Five or Six Days from <hi>Rochel,</hi> towards <hi>Saumeure,</hi> Five or Six Thouſand Men, and brought in their room ſome new Souldiers, raiſed by the Pariſhes, within this Three or Four Months, who are to be Diſciplined, and ſupply their Places in the Garriſon.</p>
+            <p>The Fortifications of <hi>Oleroon</hi> are finiſhed, and they have pulled down all the Houſes in the Caſtle.</p>
+            <p>They work likewiſe very hard upon the Fortifications at <hi>Brouage, Rochfort,</hi> and the <hi>Sheath,</hi> which is the entrance of the River of <hi>Sher<g ref="char:EOLhyphen"/>rant.</hi>
+            </p>
+            <p>A Bark is arrived in <hi>Brittany</hi> ſince the Twenty Third paſt, from <hi>Ireland,</hi> which brings Advice, That <hi>London Derry</hi> holds out ſtill, to our great admiration, that it hath not been relieved or taken all this while.</p>
+            <p>If once our Fleet returns into our Ports, it will be very difficult to put it to Sea again: For all things are wanting at <hi>Rochefort,</hi> and the Stores as empty as a <hi>Tennis-Court.</hi> And it's ſaid it is the ſame at <hi>Brest.</hi>
+            </p>
+            <p>The Rendevouz of all the <hi>French</hi> Fleet is deſign'd to be at <hi>Belle Iſle,</hi> not far from the mouth of the <hi>Loire</hi> in <hi>Brittany.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Jones.</hi> MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
